@@ -2,8 +2,8 @@
 
 *Jake VanderPlas, Summer 2016*
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hhmida/WhirlwindTourOfPython/master?filepath=notebooks%2FIndex.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhmida/WhirlwindTourOfPython/blob/master/notebooks/Index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hhmida/WhirlwindTourOfPython/master?filepath=Index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hhmida/WhirlwindTourOfPython/blob/master/Index.ipynb)
 
 This repository contains the Jupyter Notebooks behind my O'Reilly report,
 [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)).
